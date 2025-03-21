@@ -1,5 +1,5 @@
-CREATE DATABASE Gestion_password;
-USE Gestion_password;
+CREATE DATABASE pwd_manager;
+USE pwd_manager;
 
 CREATE TABLE users (
     user_id INT AUTO_INCREMENT PRIMARY KEY,
